@@ -1,4 +1,4 @@
-9616
+9626
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\source-map-js\lib\binary-search.js133343304904003724 0
 82C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\lib\compress.js133343304929777928 0
 98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\stable\instance\trim-left.js133343345883504024 0
@@ -10,18 +10,18 @@
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lightningcss\node\index.js.flow133343304905873171 0
 125C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133343304929972352 0
 92C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\stable\object\proto.js133343345867870646 0
-79C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@msgpackr-extract133344197293482135 1
+79C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@msgpackr-extract133344234714507518 1
 114C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\parser\SyntaxError.js133343304935424123 0
 88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\svgo\plugins\reusePaths.js133343304929668283 0
 87C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-select\lib\index.d.ts133343304931028819 0
 111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133343304915776026 0
-53C:\Users\robert.stancu\Desktop\js-course-forkify\dist133344217908999609 1
+53C:\Users\robert.stancu\Desktop\js-course-forkify\dist133344240010970988 1
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\workers\src\cpuCount.js133343304913220731 0
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\stable\typed-array\to-sorted.js133343345881243716 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\node_modules\msgpackr\index.d.ts133343304928686478 0
 111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133343304931248093 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\parse-json-string.js133343345867182952 0
-61C:\Users\robert.stancu\Desktop\js-course-forkify\package.json133344197293522001 0
+61C:\Users\robert.stancu\Desktop\js-course-forkify\package.json133344234714577231 0
 108C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133343304924021941 0
 106C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\typed-array\uint32-array.js133343345884979078 0
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\regenerator-runtime\README.md133343304903539945 0
@@ -81,9 +81,6 @@
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\update-browserslist-db\utils.js133343304902856856 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\array-find.js133343304922487075 0
 121C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133343304925835874 0
-99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\repeat.js133343345870292557 0
-112C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\input-file-directory.js133343304937606821 0
-111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\_\_class_name_tdz_error\package.json133343304936291220 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\get-substitution.js133343345843685058 0
 79C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\process\README.md133344197293193251 0
 74C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\argparse\lib133343304905045932 1
@@ -116,9 +113,9 @@
 98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\esnext.map.filter.js133343345827326087 0
 105C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133343304935015485 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\to-positive-integer.js133343345880057088 0
-61C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules133344197293462211 1
+61C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules133344234714457631 1
 114C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Value.cjs133343304932792923 0
-66C:\Users\robert.stancu\Desktop\js-course-forkify\package-lock.json133344197293870847 0
+66C:\Users\robert.stancu\Desktop\js-course-forkify\package-lock.json133344234714965927 0
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\svgo\plugins\removeEmptyText.js133343304926752829 0
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\instance\keys.js133343345858456640 0
 106C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\node_modules\msgpackr\dist\index.js.map133343304923443900 0
@@ -242,7 +239,7 @@
 104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\_\_object_destructuring_empty133343304937018790 1
 77C:\Users\robert.stancu\Desktop\js-course-forkify\src\sass\_searchResults.scss133338230259560608 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\esnext.global-this.js133343345826483734 0
-69C:\Users\robert.stancu\Desktop\js-course-forkify\src\js\controller.js133344217925051984 0
+69C:\Users\robert.stancu\Desktop\js-course-forkify\src\js\controller.js133344409097645135 0
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.math.cbrt.js133343345816871522 0
 121C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\utils\create-custom-error.js133343304933550387 0
 85C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\semver\functions\cmp.js133343304901485667 0
@@ -258,12 +255,12 @@
 112C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers133343304896111921 1
 116C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\import.js133343304934357688 0
 75C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\svgo\lib\svgo133343304930998924 1
-64C:\Users\robert.stancu\Desktop\js-course-forkify\src\js\model.js133344213535949990 0
+64C:\Users\robert.stancu\Desktop\js-course-forkify\src\js\model.js133344409083444748 0
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\trim-right.js133343345883783080 0
 138C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.js133343304910144247 0
 144C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133343304929010489 0
 72C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\es133343345888932339 1
-66C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc133344197293472171 1
+66C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc133344234714467594 1
 75C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\color-convert133343304906660532 1
 107C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\css-reflections.js133343304934995556 0
 86C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\lib\_get.js133343304934297887 0
@@ -273,7 +270,7 @@
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\actual\array-buffer\transfer.js133343345882915988 0
 97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\transformer-postcss\LICENSE133343304893944095 0
 73C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\glob-parent133343305570526394 1
-75C:\Users\robert.stancu\Desktop\js-course-forkify\src\js\views\recipeView.js133344213811313654 0
+75C:\Users\robert.stancu\Desktop\js-course-forkify\src\js\views\recipeView.js133344409107998037 0
 118C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133343304896151786 0
 110C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\mdn-data\css\units.schema.json133343304921684687 0
 89C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\domutils\lib\traversal.d.ts133343304920517164 0
@@ -340,7 +337,7 @@
 80C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\cjs\index.cjs133343304920218165 0
 103C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\node_modules\node-addon-api\index.js133343304915830984 0
 92C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\bin\download-prebuilds.js133343304932673319 0
-80C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\.package-lock.json133344197294100142 0
+80C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\.package-lock.json133344234715274891 0
 92C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\semver\internal\identifiers.js133343304915686107 0
 81C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\dotenv\package.json133343304893914192 0
 104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\virtual\reduce-right.js133343345868927121 0
@@ -359,7 +356,7 @@
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\node_modules\msgpackr\dist\node.cjs133343304904976183 0
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\regions\FJ.js133343304936580258 0
 98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.regexp.dot-all.js133343345819923596 0
-67C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@lmdb133344197293482135 1
+67C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@lmdb133344234714477560 1
 110C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\speech-recognition.js133343304940940743 0
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.object.seal.js133343345818541229 0
 107C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\htmlnano\lib\modules\removeEmptyAttributes.js133343304920277996 0
@@ -376,7 +373,7 @@
 103C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\actual\typed-array\uint8-array.js133343345885058815 0
 82C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\type-fest\index.d.ts133343304915776026 0
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\cjs\syntax\config\mix.cjs133343304931497255 0
-69C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel133344197293472171 1
+69C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel133344234714477560 1
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\web.set-timeout.js133343345887766348 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\lazyload.js133343304938982223 0
 79C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\term-size\license133343304899337148 0
@@ -543,6 +540,7 @@
 72C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fill-range133343304899606201 1
 90C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\es\array\index-of.js133343345846535525 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\syntax\node\StyleSheet.js133343304935563655 0
+72C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional133344234714225729 1
 113C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133343304896181690 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\mdn-data\l10n\css.json133343304911808683 0
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\src\_to_primitive.mjs133343304939161623 0
@@ -847,6 +845,7 @@
 73C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\safe-buffer133343304902807037 1
 105C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\localecompare.js133343304939141692 0
 84C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\semver\functions\eq.js133343304913400129 0
+83C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional\index.html133344234714195829 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\msgpackr\dist\index-no-eval.min.js.map133343304922736253 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\cjs\_write_only_error.cjs133343304931646755 0
 66C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\sass133343305571561074 1
@@ -994,6 +993,7 @@
 92C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\xxhash-wasm\cjs\xxhash-wasm.js133343304894581966 0
 74C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\svgo\plugins133343304931058719 1
 77C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\srcset\index.js133343304895449063 0
+97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional\releases\fraction-0.2.js133344234714315432 0
 97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\stable\typed-array\slice.js133343345874252986 0
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\xxhash-wasm\cjs\xxhash-wasm.js.map133343304905225331 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\stable\typed-array\iterator.js133343345857100979 0
@@ -1083,9 +1083,9 @@
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\utility-types\dist\index.d.ts133343304916305057 0
 126C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare133343304926334207 1
 104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\utility-types\dist\functional-helpers.d.ts133343304915830984 0
-102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\json-parse-even-better-errors\LICENSE.md133343304900528370 0
 86C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\uid.js133343345884809745 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\utility-types\dist\functional-helpers.js133343304898493951 0
+82C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional\README.md133344234713966866 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\instance\code-point-at.js133343345805790864 0
 111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\core\bindings\binding_core_wasm\package.json133343304911121040 0
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\actual\aggregate-error.js133343345799465259 0
@@ -1093,6 +1093,7 @@
 85C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\semver\functions\inc.js133343304916185230 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\abortcontroller-polyfill\src\utils.js133343304913350300 0
 90C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\bigint\index.js133343345849655093 0
+102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\json-parse-even-better-errors\LICENSE.md133343304900528370 0
 75C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\htmlnano\docs133343304930630152 1
 106C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\utility-types\dist\functional-helpers.js.map133343304909530938 0
 127C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeViewBox.js133343304929907492 0
@@ -1480,10 +1481,10 @@
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\number\virtual\to-fixed.js133343345879369379 0
 127C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json133343304934776327 0
 88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\term-size\vendor\.DS_Store133343304894472328 0
+100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src\.eslintrc.json133343304918926102 0
 84C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\term-size\vendor\macos133343304901336068 1
 108C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\utils\index.cjs133343304930221518 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\css-resize.js133343304935055360 0
-100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src\.eslintrc.json133343304918926102 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\cjs\_get_prototype_of.cjs133343304927076799 0
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\term-size\vendor\macos\.DS_Store133343304896570390 0
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\regions\SN.js133343304940890908 0
@@ -1604,9 +1605,6 @@
 110C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\cjs\_initializer_warning_helper.cjs133343304928337647 0
 106C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\dom-serializer\node_modules\entities\LICENSE133343304894013859 0
 82C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\url133343345879768065 1
-92C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.array.at.js133343345814833280 0
-93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\global-this.js133343345843994021 0
-93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\lexer\structure.js133343304935523786 0
 107C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\cjs\_class_private_field_set.cjs133343304921076726 0
 83C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\posthtml\node_modules133343304879056877 1
 108C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133343304927435595 0
@@ -1665,13 +1663,12 @@
 79C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\svgo\lib\types.ts133343304931198255 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\dom-serializer\node_modules\entities\lib133343304916564826 1
 97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\lexer\generic-const.js133343304934367653 0
-85C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src133343304918841222 1
 86C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\source-map\lib\base64.js133343304907617334 0
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\esm\_create_super.js133343304933978953 0
-78C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\svgo\lib\xast.js133343304930749767 0
-93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\generator\index.js133343304934596886 0
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\math\sinh.js133343345873724770 0
 87C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\dotenv\lib\cli-options.js133343304905972835 0
+93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\generator\index.js133343304934596886 0
+78C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\svgo\lib\xast.js133343304930749767 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133343304894621826 1
 88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\sass\types\value\list.d.ts133343305572099232 0
 106C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\array-buffer\constructor.js133343345807497040 0
@@ -1769,11 +1766,11 @@
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\add-to-unscopables.js133343345799375550 0
 117C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts.map133343304917504090 0
 98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\node-addon-api\tools\clang-format.js133343304914057255 0
-104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\object\define-property.js133343345810334285 0
-90C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\semver\classes\comparator.js133343304905982799 0
+105C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\syntax\node\DeclarationList.js133343304934138421 0
 105C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\css-when-else.js133343304935473955 0
 89C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\lexer\units.js133343304935753026 0
-105C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\syntax\node\DeclarationList.js133343304934138421 0
+104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\object\define-property.js133343345810334285 0
+90C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\semver\classes\comparator.js133343304905982799 0
 124C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\String.js133343304926563441 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\source-map-js\lib\source-map-consumer.js133343304909411335 0
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\calc.js133343304931746428 0
@@ -2260,7 +2257,7 @@
 129C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-class-list.js133343304920003793 0
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\htmlnano\lib\modules\removeUnusedCss.js133343304921375720 0
 84C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\path-type\package.json133343304893854388 0
-72C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.f7626f62.css133344197305406761 0
+72C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.f7626f62.css133344235181107085 0
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133343304932284625 0
 89C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\es\function\virtual133343345848020552 1
 121C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133343304933630119 0
@@ -2328,8 +2325,9 @@
 88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\node-resolver-core133343304932862686 1
 79C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\README.md133343345889041984 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\try-node-require.js133343345884530586 0
-88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\js-yaml\lib\type\binary.js133343304896490653 0
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\ordered-binary\rollup.config.js133343304904557565 0
+97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional\releases\fraction-0.1.js133344234714245663 0
+88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\js-yaml\lib\type\binary.js133343304896490653 0
 90C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\index.js133343345850432489 0
 82C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\ordered-binary\tests133343304906311697 1
 108C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\.bin\node-gyp-build-optional-packages-optional133343304942304920 0
@@ -2833,6 +2831,7 @@
 109C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133343304933341085 0
 80C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\domutils\readme.md133343304916375025 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.symbol.match-all.js133343345822365604 0
+81C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional\index.js133344234714096161 0
 117C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133343304932045428 0
 88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\math\clamp.js133343345805328731 0
 121C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser133343304932613521 1
@@ -2920,8 +2919,8 @@
 111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133343304930171686 0
 111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\transformer-babel\src\BabelTransformer.js133343304907986101 0
 115C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\pseudo\index.js133343304934596886 0
-97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\link.js133343345859503938 0
 114C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c133343304929538718 0
+97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\link.js133343345859503938 0
 86C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\at.js133343345803200290 0
 115C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133343304929598519 0
 97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\esnext.map.merge.js133343345827654989 0
@@ -3188,8 +3187,8 @@
 90C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\stable\math\clz32.js133343345805548001 0
 145C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\DeclarationList.js133343304925855807 0
 83C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\is-arrayish\README.md133343304897646794 0
-85C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\import-fresh\index.d.ts133343304902816992 0
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\generator\create.js133343304933839422 0
+85C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\import-fresh\index.d.ts133343304902816992 0
 114C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\config\mix.cjs133343304930998924 0
 109C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\proposals\string-replace-all-stage-4.js133343345877120476 0
 82C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\import-fresh\license133343304893864354 0
@@ -3268,6 +3267,10 @@
 120C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133343304935543723 0
 89C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\htmlnano\lib\presets\max.js133343304914136986 0
 113C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.js133343304904118459 0
+88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional\array_mixins.js133344234714036400 0
+88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\actual\array\at.js133343345802791663 0
+114C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133343304932792923 0
+97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\async-iterator\some.js133343345874831055 0
 111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133343304905893098 0
 115C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133343304933121822 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\actual\string\virtual\index.js133343345847621884 0
@@ -3394,6 +3397,16 @@
 87C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@lezer\lr\dist\token.d.ts133343304912806800 0
 83C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\get-port\package.json133343304893983955 0
 80C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\get-port\readme.md133343304903006352 0
+107C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\is-array-iterator-method.js133343345852136847 0
+85C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional\package.json133344234713916119 0
+101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\fontsize.js133343345839449696 0
+117C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Dimension.js133343304934048725 0
+100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\string\code-points.js133343345805956035 0
+102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\syntax\node\MediaFeature.js133343304935005519 0
+81C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional\releases133344234714295518 1
+96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\flac.js133343304936600188 0
+81C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fractional\tests.js133344234714136030 0
+88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\find.js133343345837232054 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\runtime-react-refresh\LICENSE133343304893954056 0
 80C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\fill-range\LICENSE133343304897656752 0
 109C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\walker\create.js133343304933719821 0
@@ -3771,9 +3784,6 @@
 126C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133343304918741365 0
 123C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\DeclarationList.js133343304934008855 0
 86C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\es\array\some.js133343345874591871 0
-117C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Dimension.js133343304934048725 0
-100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\string\code-points.js133343345805956035 0
-102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\syntax\node\MediaFeature.js133343304935005519 0
 116C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Function.js133343304934118488 0
 92C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\stable\date\to-json.js133343345879827858 0
 112C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Hash.js133343304934287923 0
@@ -3892,7 +3902,7 @@
 104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\version.cjs133343304932892585 0
 109C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\typed-array\find-last-index.js133343345836019540 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\walker133343304930271380 1
-71C:\Users\robert.stancu\Desktop\js-course-forkify\dist\logo.726d37a8.png133344197305700915 0
+71C:\Users\robert.stancu\Desktop\js-course-forkify\dist\logo.726d37a8.png133344235181007420 0
 110C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\walker\create.cjs133343304921266090 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\engine-is-browser.js133343345813149935 0
 119C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs133343304938533721 0
@@ -3948,10 +3958,10 @@
 87C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\browserslist\package.json133343304909082436 0
 122C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AtrulePrelude.cjs133343304906521003 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\object\iterate-entries.js133343345855093558 0
-126C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AttributeSelector.cjs133343304910582786 0
-104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src\CJSOutputFormat.js133343304899486594 0
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\stable\array\entries.js133343345813996077 0
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\cjs\_apply_decs_2203_r.cjs133343304899337148 0
+104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src\CJSOutputFormat.js133343304899486594 0
+126C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AttributeSelector.cjs133343304910582786 0
 114C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Block.cjs133343304911469821 0
 114C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\form-submit-attributes.js133343304936809490 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\core\test\fixtures\module-b.js133343304931955726 0
@@ -4284,6 +4294,9 @@
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\actual\array-buffer\detached.js133343345811600041 0
 127C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeDoctype.js133343304927096729 0
 90C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\lexer\search.js133343304935384255 0
+92C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.array.at.js133343345814833280 0
+93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\global-this.js133343345843994021 0
+93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\lexer\structure.js133343304935523786 0
 89C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\lib\lexer\trace.js133343304935673286 0
 132C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133343304934726457 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\virtual\includes.js133343345846216584 0
@@ -4461,7 +4474,7 @@
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\es\string\virtual\match-all.js133343345861875622 0
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\cjs\parser\index.cjs133343304930072028 0
 110C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\iterator-create-constructor.js133343345855342734 0
-75C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.e37f48ea.js.map133344217908909901 0
+75C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.e37f48ea.js.map133344240010862086 0
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\cjs\parser\sequence.cjs133343304932464021 0
 108C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-select\node_modules\dom-serializer\LICENSE133343304894003890 0
 97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\cjs\parser\SyntaxError.cjs133343304932683287 0
@@ -4489,7 +4502,7 @@
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\cjs\convertor\create.cjs133343304918311744 0
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.math.log1p.js133343345817175581 0
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-tree\cjs\convertor\index.cjs133343304929797863 0
-76C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.f7626f62.css.map133344197305561384 0
+76C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.f7626f62.css.map133344235181186816 0
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\stable\number\to-fixed.js133343345879389309 0
 85C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-select\package.json133343304920716530 0
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\css-select\node_modules\domutils133343304927844228 1
@@ -5447,9 +5460,9 @@
 97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.array.reverse.js133343345815630605 0
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\codeframe\src\codeframe.js133343304920457362 0
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.array.slice.js133343345815660507 0
-94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.array.sort.js133343345815730305 0
-86C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-raw\src133343304898573690 1
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\set\is-subset-of.js133343345853890155 0
+86C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-raw\src133343304898573690 1
+94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.array.sort.js133343345815730305 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\es.array.to-spliced.js133343345815959509 0
 86C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\actual\README.md133343345888882511 0
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\transformer-posthtml\lib133343304901395866 1
@@ -5761,7 +5774,6 @@
 123C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\css-tools.js133343304921295983 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\esnext.weak-map.of.js133343345831209699 0
 103C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\esnext.weak-map.upsert.js133343345831249576 0
-100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src\dev-prelude.js133343304904337729 0
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\esnext.weak-set.from.js133343345831378348 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\esnext.weak-set.of.js133343345831419983 0
 89C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\modules\web.btoa.js133343345887377544 0
@@ -5862,8 +5874,6 @@
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\es\typed-array\last-index-of.js133343345858788798 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\lib\_object_spread_props.js133343304934945719 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\inherit-if-required.js133343345851608549 0
-107C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\is-array-iterator-method.js133343345852136847 0
-101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\fontsize.js133343345839449696 0
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\is-array.js133343345852236449 0
 98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\lib\_async_generator.js133343304932224825 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\is-big-int-array.js133343345852276326 0
@@ -5911,8 +5921,8 @@
 106C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\object-set-prototype-of.js133343345865299241 0
 138C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Function.js133343304928307756 0
 98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\object-to-array.js133343345865329148 0
-104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\replace-all.js133343345870601538 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\object-to-string.js133343345865349084 0
+104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\replace-all.js133343345870601538 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\observable-forced.js133343345865408873 0
 87C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\transformer-babel133343304918701260 1
 90C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\internals\perform.js133343345867342414 0
@@ -6065,7 +6075,6 @@
 98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\symbol\to-string-tag.js133343345881951354 0
 89C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\events\lib\index.js133343304907936266 0
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\symbol\unscopables.js133343345885985722 0
-98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\index.js133343345850452426 0
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\anchor.js133343345799930050 0
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\code-points.js133343345806005868 0
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\cooked.js133343345808321019 0
@@ -6094,6 +6103,7 @@
 106C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\code-point-at.js133343345805826442 0
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\number\is-nan.js133343345853342002 0
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\ends-with.js133343345813030338 0
+98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\index.js133343345850452426 0
 88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\math\expm1.js133343345832729247 0
 107C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\is-well-formed.js133343345854326133 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\italics.js133343345854944062 0
@@ -6106,6 +6116,9 @@
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\pad-end.js133343345866385610 0
 81C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\_\_set133343304937148355 1
 102C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\pad-start.js133343345866674649 0
+99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\repeat.js133343345870292557 0
+112C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\input-file-directory.js133343304937606821 0
+111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\_\_class_name_tdz_error\package.json133343304936291220 0
 104C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\starts-with.js133343345876372976 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\strike.js133343345876671983 0
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\string\virtual\sub.js133343345877555446 0
@@ -6221,8 +6234,8 @@
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\number\parse-float.js133343345866873986 0
 90C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\values.js133343345887048645 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\number\to-exponential.js133343345879180023 0
-93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\number\to-fixed.js133343345879349454 0
 89C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\LICENSE133343304893983955 0
+93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\number\to-fixed.js133343345879349454 0
 111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@babel\helper-validator-identifier\lib\keyword.js133343304907238605 0
 111C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data133343304933341085 1
 115C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133343304936032088 0
@@ -6407,9 +6420,6 @@
 138C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\parser.js133343304932174987 0
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\object\is.js133343345854535426 0
 98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\async-iterator\index.js133343345849625196 0
-88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\actual\array\at.js133343345802791663 0
-114C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133343304932792923 0
-97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\async-iterator\some.js133343345874831055 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@swc\helpers\esm\_array_with_holes.js133343304931945758 0
 97C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\async-iterator\take.js133343345878472374 0
 79C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\commander\esm.mjs133343304909072466 0
@@ -6433,8 +6443,6 @@
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\find-index.js133343345835461402 0
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\object\values.js133343345886998812 0
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\css-masks.js133343304934467319 0
-96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\caniuse-lite\data\features\flac.js133343304936600188 0
-88C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\find.js133343345837232054 0
 121C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-select\package.json133343304914520034 0
 92C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\flat-map.js133343345838263669 0
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\core\test\fixtures\parcel133343304935015485 1
@@ -6502,8 +6510,8 @@
 95C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\reporter-cli\src\utils.js133343304913867883 0
 99C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\virtual\unshift.js133343345886311119 0
 98C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\virtual\values.js133343345887088507 0
-96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\virtual\with.js133343345888663238 0
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-raw\src\RawPackager.js133343304899466666 0
+96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\full\array\virtual\with.js133343345888663238 0
 84C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\array133343345888613404 1
 91C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\array-buffer133343345882935913 1
 105C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\core-js\features\url-search-params\index.js133343345849435814 0
@@ -8767,6 +8775,8 @@
 101C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-raw\lib\RawPackager.js133343304896181690 0
 85C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\lib133343304917564104 1
 94C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\package.json133343304919205308 0
+85C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src133343304918841222 1
+100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src\dev-prelude.js133343304904337729 0
 100C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src\DevPackager.js133343304908045902 0
 107C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133343304912388205 0
 96C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\@parcel\packager-js\src\helpers.js133343304914057255 0
@@ -9607,11 +9617,11 @@
 75C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\.bin\svgo.ps1133343304942304920 0
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\.bin\update-browserslist-db.cmd133343304942304920 0
 93C:\Users\robert.stancu\Desktop\js-course-forkify\node_modules\.bin\update-browserslist-db.ps1133343304942304920 0
-74C:\Users\robert.stancu\Desktop\js-course-forkify\dist\favicon.8b2f57bf.png133344197305860380 0
-72C:\Users\robert.stancu\Desktop\js-course-forkify\dist\icons.21bad73c.svg133344197306229144 0
-72C:\Users\robert.stancu\Desktop\js-course-forkify\dist\icons.dfd7a6db.svg133344197305860380 0
+74C:\Users\robert.stancu\Desktop\js-course-forkify\dist\favicon.8b2f57bf.png133344235181136986 0
+72C:\Users\robert.stancu\Desktop\js-course-forkify\dist\icons.21bad73c.svg133344235181495795 0
+72C:\Users\robert.stancu\Desktop\js-course-forkify\dist\icons.dfd7a6db.svg133344235181406085 0
 75C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.62406edb.js.map133343307121797543 0
-71C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.e37f48ea.js133344217908804922 0
+71C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.e37f48ea.js133344240010771630 0
 78C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.e37f48ea.js.4000.n133343307136449500 0
-64C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.html133344197305860380 0
+64C:\Users\robert.stancu\Desktop\js-course-forkify\dist\index.html133344231110277827 0
 87C:\Users\robert.stancu\Desktop\js-course-forkify\dist\js-course-forkify.3464ddca.js.map133343307132273467 0
